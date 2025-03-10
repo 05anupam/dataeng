@@ -1,1 +1,341 @@
-Operation Performed at 08-Mar-2025-09-20-28 StartedOperation Performed at 08-Mar-2025-10-16-54 Started
+Operation Performed at 09-Mar-2025-03-26-05 Log process Started
+Operation Performed at 09-Mar-2025-03-26-05 Extraction Started
+Operation Performed at 09-Mar-2025-03-26-13 Extraction Ended
+Operation Performed at 09-Mar-2025-03-26-13 Transformation Started
+Operation Performed at 09-Mar-2025-03-26-13 Transformation Ended
+Operation Performed at 09-Mar-2025-03-26-56 Log process Started
+Operation Performed at 09-Mar-2025-03-26-56 Extraction Started
+Operation Performed at 09-Mar-2025-03-26-58 Extraction Ended
+Operation Performed at 09-Mar-2025-03-26-58 Transformation Started
+Operation Performed at 09-Mar-2025-03-26-58 Transformation Ended
+Operation Performed at 09-Mar-2025-03-34-04 Log process Started
+Operation Performed at 09-Mar-2025-03-34-04 Extraction Started
+Operation Performed at 09-Mar-2025-03-34-07 Extraction Ended
+Operation Performed at 09-Mar-2025-03-34-07 Transformation Started
+Operation Performed at 09-Mar-2025-03-38-31 Log process Started
+Operation Performed at 09-Mar-2025-03-38-31 Extraction Started
+Operation Performed at 09-Mar-2025-03-38-33 Extraction Ended
+Operation Performed at 09-Mar-2025-03-38-33 Transformation Started
+Operation Performed at 09-Mar-2025-03-38-47 Log process Started
+Operation Performed at 09-Mar-2025-03-38-47 Extraction Started
+Operation Performed at 09-Mar-2025-03-38-49 Extraction Ended
+Operation Performed at 09-Mar-2025-03-38-49 Transformation Started
+Operation Performed at 09-Mar-2025-03-58-54 Log process Started
+Operation Performed at 09-Mar-2025-03-58-54 Extraction Started
+Operation Performed at 09-Mar-2025-03-58-57 Extraction Ended
+Operation Performed at 09-Mar-2025-03-58-57 Transformation Started
+Operation Performed at 09-Mar-2025-03-59-15 Log process Started
+Operation Performed at 09-Mar-2025-03-59-15 Extraction Started
+Operation Performed at 09-Mar-2025-03-59-17 Extraction Ended
+Operation Performed at 09-Mar-2025-03-59-17 Transformation Started
+Operation Performed at 09-Mar-2025-04-00-06 Log process Started
+Operation Performed at 09-Mar-2025-04-00-06 Extraction Started
+Operation Performed at 09-Mar-2025-04-00-08 Extraction Ended
+Operation Performed at 09-Mar-2025-04-00-08 Transformation Started
+Operation Performed at 09-Mar-2025-04-00-08 Transformation Ended
+Operation Performed at 09-Mar-2025-04-05-16 Log process Started
+Operation Performed at 09-Mar-2025-04-05-16 Extraction Started
+Operation Performed at 09-Mar-2025-04-05-18 Extraction Ended
+Operation Performed at 09-Mar-2025-04-05-18 Transformation Started
+Operation Performed at 09-Mar-2025-04-05-18 Transformation Ended
+Operation Performed at 09-Mar-2025-04-15-48 Log process Started
+Operation Performed at 09-Mar-2025-04-15-48 Extraction Started
+Operation Performed at 09-Mar-2025-04-15-51 Extraction Ended
+Operation Performed at 09-Mar-2025-04-15-51 Transformation Started
+Operation Performed at 09-Mar-2025-04-20-40 Log process Started
+Operation Performed at 09-Mar-2025-04-20-40 Extraction Started
+Operation Performed at 09-Mar-2025-04-20-42 Extraction Ended
+Operation Performed at 09-Mar-2025-04-20-42 Transformation Started
+Operation Performed at 09-Mar-2025-04-22-32 Log process Started
+Operation Performed at 09-Mar-2025-04-22-32 Extraction Started
+Operation Performed at 09-Mar-2025-04-22-35 Extraction Ended
+Operation Performed at 09-Mar-2025-04-22-35 Transformation Started
+Operation Performed at 09-Mar-2025-04-23-27 Log process Started
+Operation Performed at 09-Mar-2025-04-23-27 Extraction Started
+Operation Performed at 09-Mar-2025-04-23-29 Extraction Ended
+Operation Performed at 09-Mar-2025-04-23-29 Transformation Started
+Operation Performed at 11-Mar-2025-00-43-41 Log process Started
+Operation Performed at 11-Mar-2025-00-43-41 Extraction Started
+Operation Performed at 11-Mar-2025-00-43-44 Extraction Ended
+Operation Performed at 11-Mar-2025-00-43-44 Transformation Started
+Operation Performed at 11-Mar-2025-00:45:00 Log process Started
+Operation Performed at 11-Mar-2025-00:45:00 Extraction Started
+Operation Performed at 11-Mar-2025-00:45:02 Extraction Ended
+Operation Performed at 11-Mar-2025-00:45:02 Transformation Started
+Operation Performed at 11-Mar-2025-00:45:02 Transformation Ended
+Operation Performed at 11-Mar-2025-00:46:00 Log process Started
+Operation Performed at 11-Mar-2025-00:46:00 Extraction Started
+Operation Performed at 11-Mar-2025-00:46:02 Extraction Ended
+Operation Performed at 11-Mar-2025-00:46:02 Transformation Started
+Operation Performed at 11-Mar-2025-00:46:02 Transformation Ended
+Operation Performed at 11-Mar-2025-00:47:32 Log process Started
+Operation Performed at 11-Mar-2025-00:47:32 Extraction Started
+Operation Performed at 11-Mar-2025-00:47:34 Extraction Ended
+Operation Performed at 11-Mar-2025-00:47:34 Transformation Started
+Operation Performed at 11-Mar-2025-00:47:34 Transformation Ended
+Operation Performed at 11-Mar-2025-00:48:07 Log process Started
+Operation Performed at 11-Mar-2025-00:48:07 Extraction Started
+Operation Performed at 11-Mar-2025-00:48:09 Extraction Ended
+Operation Performed at 11-Mar-2025-00:48:09 Transformation Started
+Operation Performed at 11-Mar-2025-00:48:09 Transformation Ended
+Operation Performed at 11-Mar-2025-00:54:38 Log process Started
+Operation Performed at 11-Mar-2025-00:54:38 Extraction Started
+Operation Performed at 11-Mar-2025-00:54:41 Extraction Ended
+Operation Performed at 11-Mar-2025-00:54:41 Transformation Started
+Operation Performed at 11-Mar-2025-00:55:14 Log process Started
+Operation Performed at 11-Mar-2025-00:55:14 Extraction Started
+Operation Performed at 11-Mar-2025-00:55:16 Extraction Ended
+Operation Performed at 11-Mar-2025-00:55:16 Transformation Started
+Operation Performed at 11-Mar-2025-00:55:35 Log process Started
+Operation Performed at 11-Mar-2025-00:55:35 Extraction Started
+Operation Performed at 11-Mar-2025-00:55:37 Extraction Ended
+Operation Performed at 11-Mar-2025-00:55:37 Transformation Started
+Operation Performed at 11-Mar-2025-00:55:54 Log process Started
+Operation Performed at 11-Mar-2025-00:55:54 Extraction Started
+Operation Performed at 11-Mar-2025-00:55:55 Extraction Ended
+Operation Performed at 11-Mar-2025-00:55:55 Transformation Started
+Operation Performed at 11-Mar-2025-00:56:07 Log process Started
+Operation Performed at 11-Mar-2025-00:56:07 Extraction Started
+Operation Performed at 11-Mar-2025-00:56:09 Extraction Ended
+Operation Performed at 11-Mar-2025-00:56:09 Transformation Started
+Operation Performed at 11-Mar-2025-00:56:09 Transformation Ended
+Operation Performed at 11-Mar-2025-00:57:22 Log process Started
+Operation Performed at 11-Mar-2025-00:57:22 Extraction Started
+Operation Performed at 11-Mar-2025-00:57:24 Extraction Ended
+Operation Performed at 11-Mar-2025-00:57:24 Transformation Started
+Operation Performed at 11-Mar-2025-00:57:42 Log process Started
+Operation Performed at 11-Mar-2025-00:57:42 Extraction Started
+Operation Performed at 11-Mar-2025-00:57:44 Extraction Ended
+Operation Performed at 11-Mar-2025-00:57:44 Transformation Started
+Operation Performed at 11-Mar-2025-00:57:55 Log process Started
+Operation Performed at 11-Mar-2025-00:57:55 Extraction Started
+Operation Performed at 11-Mar-2025-00:57:57 Extraction Ended
+Operation Performed at 11-Mar-2025-00:57:57 Transformation Started
+Operation Performed at 11-Mar-2025-00:57:57 Transformation Ended
+Operation Performed at 11-Mar-2025-00:58:12 Log process Started
+Operation Performed at 11-Mar-2025-00:58:12 Extraction Started
+Operation Performed at 11-Mar-2025-00:58:14 Extraction Ended
+Operation Performed at 11-Mar-2025-00:58:14 Transformation Started
+Operation Performed at 11-Mar-2025-00:58:14 Transformation Ended
+Operation Performed at 11-Mar-2025-00:58:51 Log process Started
+Operation Performed at 11-Mar-2025-00:58:51 Extraction Started
+Operation Performed at 11-Mar-2025-00:58:52 Extraction Ended
+Operation Performed at 11-Mar-2025-00:58:52 Transformation Started
+Operation Performed at 11-Mar-2025-00:59:06 Log process Started
+Operation Performed at 11-Mar-2025-00:59:06 Extraction Started
+Operation Performed at 11-Mar-2025-00:59:08 Extraction Ended
+Operation Performed at 11-Mar-2025-00:59:08 Transformation Started
+Operation Performed at 11-Mar-2025-01:00:45 Log process Started
+Operation Performed at 11-Mar-2025-01:00:45 Extraction Started
+Operation Performed at 11-Mar-2025-01:00:49 Extraction Ended
+Operation Performed at 11-Mar-2025-01:00:49 Transformation Started
+Operation Performed at 11-Mar-2025-01:00:49 Transformation Ended
+Operation Performed at 11-Mar-2025-01:01:07 Log process Started
+Operation Performed at 11-Mar-2025-01:01:07 Extraction Started
+Operation Performed at 11-Mar-2025-01:01:09 Extraction Ended
+Operation Performed at 11-Mar-2025-01:01:09 Transformation Started
+Operation Performed at 11-Mar-2025-01:01:09 Transformation Ended
+Operation Performed at 11-Mar-2025-01:01:54 Log process Started
+Operation Performed at 11-Mar-2025-01:01:54 Extraction Started
+Operation Performed at 11-Mar-2025-01:01:56 Extraction Ended
+Operation Performed at 11-Mar-2025-01:01:56 Transformation Started
+Operation Performed at 11-Mar-2025-01:02:17 Log process Started
+Operation Performed at 11-Mar-2025-01:02:17 Extraction Started
+Operation Performed at 11-Mar-2025-01:02:19 Extraction Ended
+Operation Performed at 11-Mar-2025-01:02:19 Transformation Started
+Operation Performed at 11-Mar-2025-01:02:42 Log process Started
+Operation Performed at 11-Mar-2025-01:02:42 Extraction Started
+Operation Performed at 11-Mar-2025-01:02:44 Extraction Ended
+Operation Performed at 11-Mar-2025-01:02:44 Transformation Started
+Operation Performed at 11-Mar-2025-01:02:44 Transformation Ended
+Operation Performed at 11-Mar-2025-01:06:02 Log process Started
+Operation Performed at 11-Mar-2025-01:06:02 Extraction Started
+Operation Performed at 11-Mar-2025-01:06:08 Extraction Ended
+Operation Performed at 11-Mar-2025-01:06:08 Transformation Started
+Operation Performed at 11-Mar-2025-01:06:08 Transformation Ended
+Operation Performed at 11-Mar-2025-01:06:31 Log process Started
+Operation Performed at 11-Mar-2025-01:06:31 Extraction Started
+Operation Performed at 11-Mar-2025-01:06:33 Extraction Ended
+Operation Performed at 11-Mar-2025-01:06:33 Transformation Started
+Operation Performed at 11-Mar-2025-01:06:33 Transformation Ended
+Operation Performed at 11-Mar-2025-01:08:12 Log process Started
+Operation Performed at 11-Mar-2025-01:08:12 Extraction Started
+Operation Performed at 11-Mar-2025-01:08:13 Extraction Ended
+Operation Performed at 11-Mar-2025-01:08:13 Transformation Started
+Operation Performed at 11-Mar-2025-01:08:52 Log process Started
+Operation Performed at 11-Mar-2025-01:08:52 Extraction Started
+Operation Performed at 11-Mar-2025-01:08:54 Extraction Ended
+Operation Performed at 11-Mar-2025-01:08:54 Transformation Started
+Operation Performed at 11-Mar-2025-01:08:54 Transformation Ended
+Operation Performed at 11-Mar-2025-01:10:23 Log process Started
+Operation Performed at 11-Mar-2025-01:10:23 Extraction Started
+Operation Performed at 11-Mar-2025-01:10:25 Extraction Ended
+Operation Performed at 11-Mar-2025-01:10:25 Transformation Started
+Operation Performed at 11-Mar-2025-01:10:25 Transformation Ended
+Operation Performed at 11-Mar-2025-01:22:30 Log process Started
+Operation Performed at 11-Mar-2025-01:22:30 Extraction Started
+Operation Performed at 11-Mar-2025-01:22:33 Extraction Ended
+Operation Performed at 11-Mar-2025-01:22:33 Transformation Started
+Operation Performed at 11-Mar-2025-01:22:33 Transformation Ended
+Operation Performed at 11-Mar-2025-01:22:33 Loading to csv
+Operation Performed at 11-Mar-2025-01:22:33 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:25:14 Log process Started
+Operation Performed at 11-Mar-2025-01:25:14 Extraction Started
+Operation Performed at 11-Mar-2025-01:25:16 Extraction Ended
+Operation Performed at 11-Mar-2025-01:25:16 Transformation Started
+Operation Performed at 11-Mar-2025-01:25:16 Transformation Ended
+Operation Performed at 11-Mar-2025-01:25:16 Loading to csv
+Operation Performed at 11-Mar-2025-01:25:16 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:35:54 Log process Started
+Operation Performed at 11-Mar-2025-01:35:54 Extraction Started
+Operation Performed at 11-Mar-2025-01:35:57 Extraction Ended
+Operation Performed at 11-Mar-2025-01:35:57 Transformation Started
+Operation Performed at 11-Mar-2025-01:35:57 Transformation Ended
+Operation Performed at 11-Mar-2025-01:35:57 Loading to csv
+Operation Performed at 11-Mar-2025-01:35:57 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:35:57 Loading to SQL
+Operation Performed at 11-Mar-2025-01:35:57 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:37:42 Log process Started
+Operation Performed at 11-Mar-2025-01:37:42 Extraction Started
+Operation Performed at 11-Mar-2025-01:37:44 Extraction Ended
+Operation Performed at 11-Mar-2025-01:37:44 Transformation Started
+Operation Performed at 11-Mar-2025-01:37:44 Transformation Ended
+Operation Performed at 11-Mar-2025-01:37:44 Loading to csv
+Operation Performed at 11-Mar-2025-01:37:44 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:37:44 Loading to SQL
+Operation Performed at 11-Mar-2025-01:37:44 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:38:01 Log process Started
+Operation Performed at 11-Mar-2025-01:38:01 Extraction Started
+Operation Performed at 11-Mar-2025-01:38:03 Extraction Ended
+Operation Performed at 11-Mar-2025-01:38:03 Transformation Started
+Operation Performed at 11-Mar-2025-01:38:03 Transformation Ended
+Operation Performed at 11-Mar-2025-01:38:03 Loading to csv
+Operation Performed at 11-Mar-2025-01:38:03 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:38:03 Loading to SQL
+Operation Performed at 11-Mar-2025-01:38:03 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:39:10 Log process Started
+Operation Performed at 11-Mar-2025-01:39:10 Extraction Started
+Operation Performed at 11-Mar-2025-01:39:12 Extraction Ended
+Operation Performed at 11-Mar-2025-01:39:12 Transformation Started
+Operation Performed at 11-Mar-2025-01:39:12 Transformation Ended
+Operation Performed at 11-Mar-2025-01:39:12 Loading to csv
+Operation Performed at 11-Mar-2025-01:39:12 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:39:12 Loading to SQL
+Operation Performed at 11-Mar-2025-01:39:12 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:39:50 Log process Started
+Operation Performed at 11-Mar-2025-01:39:50 Extraction Started
+Operation Performed at 11-Mar-2025-01:39:52 Extraction Ended
+Operation Performed at 11-Mar-2025-01:39:52 Transformation Started
+Operation Performed at 11-Mar-2025-01:39:52 Transformation Ended
+Operation Performed at 11-Mar-2025-01:39:52 Loading to csv
+Operation Performed at 11-Mar-2025-01:39:52 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:39:52 Loading to SQL
+Operation Performed at 11-Mar-2025-01:39:52 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:40:12 Log process Started
+Operation Performed at 11-Mar-2025-01:40:12 Extraction Started
+Operation Performed at 11-Mar-2025-01:40:14 Extraction Ended
+Operation Performed at 11-Mar-2025-01:40:14 Transformation Started
+Operation Performed at 11-Mar-2025-01:40:14 Transformation Ended
+Operation Performed at 11-Mar-2025-01:40:14 Loading to csv
+Operation Performed at 11-Mar-2025-01:40:14 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:40:14 Loading to SQL
+Operation Performed at 11-Mar-2025-01:40:14 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:40:22 Log process Started
+Operation Performed at 11-Mar-2025-01:40:22 Extraction Started
+Operation Performed at 11-Mar-2025-01:40:24 Extraction Ended
+Operation Performed at 11-Mar-2025-01:40:24 Transformation Started
+Operation Performed at 11-Mar-2025-01:40:24 Transformation Ended
+Operation Performed at 11-Mar-2025-01:40:24 Loading to csv
+Operation Performed at 11-Mar-2025-01:40:24 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:40:24 Loading to SQL
+Operation Performed at 11-Mar-2025-01:40:24 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:40:50 Log process Started
+Operation Performed at 11-Mar-2025-01:40:50 Extraction Started
+Operation Performed at 11-Mar-2025-01:40:52 Extraction Ended
+Operation Performed at 11-Mar-2025-01:40:52 Transformation Started
+Operation Performed at 11-Mar-2025-01:40:52 Transformation Ended
+Operation Performed at 11-Mar-2025-01:40:52 Loading to csv
+Operation Performed at 11-Mar-2025-01:40:52 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:40:52 Loading to SQL
+Operation Performed at 11-Mar-2025-01:40:52 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:41:03 Log process Started
+Operation Performed at 11-Mar-2025-01:41:03 Extraction Started
+Operation Performed at 11-Mar-2025-01:41:06 Extraction Ended
+Operation Performed at 11-Mar-2025-01:41:06 Transformation Started
+Operation Performed at 11-Mar-2025-01:41:06 Transformation Ended
+Operation Performed at 11-Mar-2025-01:41:06 Loading to csv
+Operation Performed at 11-Mar-2025-01:41:06 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:41:06 Loading to SQL
+Operation Performed at 11-Mar-2025-01:41:06 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:41:40 Log process Started
+Operation Performed at 11-Mar-2025-01:41:40 Extraction Started
+Operation Performed at 11-Mar-2025-01:41:42 Extraction Ended
+Operation Performed at 11-Mar-2025-01:41:42 Transformation Started
+Operation Performed at 11-Mar-2025-01:41:42 Transformation Ended
+Operation Performed at 11-Mar-2025-01:41:42 Loading to csv
+Operation Performed at 11-Mar-2025-01:41:42 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:41:42 Loading to SQL
+Operation Performed at 11-Mar-2025-01:41:42 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:44:22 Log process Started
+Operation Performed at 11-Mar-2025-01:44:22 Extraction Started
+Operation Performed at 11-Mar-2025-01:44:24 Extraction Ended
+Operation Performed at 11-Mar-2025-01:44:24 Transformation Started
+Operation Performed at 11-Mar-2025-01:44:24 Transformation Ended
+Operation Performed at 11-Mar-2025-01:44:24 Loading to csv
+Operation Performed at 11-Mar-2025-01:44:24 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:44:24 Loading to SQL
+Operation Performed at 11-Mar-2025-01:44:24 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:45:50 Log process Started
+Operation Performed at 11-Mar-2025-01:45:50 Extraction Started
+Operation Performed at 11-Mar-2025-01:45:53 Extraction Ended
+Operation Performed at 11-Mar-2025-01:45:53 Transformation Started
+Operation Performed at 11-Mar-2025-01:45:53 Transformation Ended
+Operation Performed at 11-Mar-2025-01:45:53 Loading to csv
+Operation Performed at 11-Mar-2025-01:45:53 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:45:53 Loading to SQL
+Operation Performed at 11-Mar-2025-01:45:53 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:47:04 Log process Started
+Operation Performed at 11-Mar-2025-01:47:04 Extraction Started
+Operation Performed at 11-Mar-2025-01:47:11 Extraction Ended
+Operation Performed at 11-Mar-2025-01:47:11 Transformation Started
+Operation Performed at 11-Mar-2025-01:47:11 Transformation Ended
+Operation Performed at 11-Mar-2025-01:47:11 Loading to csv
+Operation Performed at 11-Mar-2025-01:47:11 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:47:11 Loading to SQL
+Operation Performed at 11-Mar-2025-01:47:11 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:48:13 Log process Started
+Operation Performed at 11-Mar-2025-01:48:13 Extraction Started
+Operation Performed at 11-Mar-2025-01:48:15 Extraction Ended
+Operation Performed at 11-Mar-2025-01:48:15 Transformation Started
+Operation Performed at 11-Mar-2025-01:48:15 Transformation Ended
+Operation Performed at 11-Mar-2025-01:48:15 Loading to csv
+Operation Performed at 11-Mar-2025-01:48:15 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:48:15 Loading to SQL
+Operation Performed at 11-Mar-2025-01:48:15 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:48:33 Log process Started
+Operation Performed at 11-Mar-2025-01:48:33 Extraction Started
+Operation Performed at 11-Mar-2025-01:48:35 Extraction Ended
+Operation Performed at 11-Mar-2025-01:48:35 Transformation Started
+Operation Performed at 11-Mar-2025-01:48:35 Transformation Ended
+Operation Performed at 11-Mar-2025-01:48:35 Loading to csv
+Operation Performed at 11-Mar-2025-01:48:35 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:48:35 Loading to SQL
+Operation Performed at 11-Mar-2025-01:48:35 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:48:44 Log process Started
+Operation Performed at 11-Mar-2025-01:48:44 Extraction Started
+Operation Performed at 11-Mar-2025-01:48:46 Extraction Ended
+Operation Performed at 11-Mar-2025-01:48:46 Transformation Started
+Operation Performed at 11-Mar-2025-01:48:46 Transformation Ended
+Operation Performed at 11-Mar-2025-01:48:46 Loading to csv
+Operation Performed at 11-Mar-2025-01:48:46 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:48:46 Loading to SQL
+Operation Performed at 11-Mar-2025-01:48:46 Loading to SQL completed
+Operation Performed at 11-Mar-2025-01:49:40 Log process Started
+Operation Performed at 11-Mar-2025-01:49:40 Extraction Started
+Operation Performed at 11-Mar-2025-01:49:42 Extraction Ended
+Operation Performed at 11-Mar-2025-01:49:42 Transformation Started
+Operation Performed at 11-Mar-2025-01:49:42 Transformation Ended
+Operation Performed at 11-Mar-2025-01:49:42 Loading to csv
+Operation Performed at 11-Mar-2025-01:49:42 Loading to csv completed
+Operation Performed at 11-Mar-2025-01:49:42 Loading to SQL
+Operation Performed at 11-Mar-2025-01:49:42 Loading to SQL completed
